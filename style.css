@@ -1,10 +1,20 @@
-#sp{
-width:150px;
+#header{
+background:darkred;
+width:715px;
+height:100px;
 }
-#spisok1{
-list-style:circle url(marker.gif) inside;
+#menu{
+background:oldlace;
+width:190px;
+height:300px;
 }
+#content{
+background:oldlace;
+width:525px;
+height:300px;
 }
-#spisok2{
-list-style-position:outside;
+#footer{
+background:darkred;
+width:715px;
+height:30px;
 }
